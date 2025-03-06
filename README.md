@@ -2,7 +2,6 @@
 
 PowerShell module for robust and type-safe [Semantic Versioning](https://github.com/semver/semver).
 
-
 [![Build Module](https://github.com/chadnpc/cliHelper.semver/actions/workflows/build_module.yaml/badge.svg)](https://github.com/chadnpc/cliHelper.semver/actions/workflows/build_module.yaml)
 [![Downloads](https://img.shields.io/powershellgallery/dt/cliHelper.semver.svg?style=flat&logo=powershell&color=blue)](https://www.powershellgallery.com/packages/cliHelper.semver)
 
