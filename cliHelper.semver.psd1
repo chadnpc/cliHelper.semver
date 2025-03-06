@@ -30,7 +30,7 @@
   Copyright             = 'Copyright © 2025 alain. All rights reserved.'
 
   # Description of the functionality provided by this module
-  Description           = 'A module helper for semantic versioning.'
+  Description           = 'PowerShell module for robust and type-safe Semantic Versioning.'
 
   # Minimum version of the PowerShell engine required by this module
   PowerShellVersion     = '7.5'
